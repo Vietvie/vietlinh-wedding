@@ -1,0 +1,10 @@
+@media (max-width: 767px) {
+    .wedding .wedding-item{
+        font-size: 1.6rem;
+    }
+
+    .container {
+        flex-wrap: wrap;
+        padding: 20px;
+    }
+}
